@@ -1,0 +1,22 @@
+{
+  "name": "@thanh/handle-js",
+  "version": "1.0.0",
+  "description": "Library help you write your js code easier ",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChiThanh2001/-thanh-handle-js.git"
+  },
+  "keywords": [
+    "LCT"
+  ],
+  "author": "LCT",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ChiThanh2001/-thanh-handle-js/issues"
+  },
+  "homepage": "https://github.com/ChiThanh2001/-thanh-handle-js#readme"
+}
