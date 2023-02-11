@@ -1,5 +1,5 @@
 {
-  "name": "@thanh/handle-js",
+  "name": "@thanh-travis/handle-js",
   "version": "2.0.0",
   "description": "Library help you write your js code easier ",
   "main": "src/index.js",
