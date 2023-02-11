@@ -1,6 +1,6 @@
 {
   "name": "@thanh/handle-js",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "Library help you write your js code easier ",
   "main": "src/index.js",
   "scripts": {
