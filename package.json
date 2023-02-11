@@ -1,6 +1,6 @@
 {
   "name": "@thanh-travis/handy-js",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Library help you write your js code easier ",
   "main": "src/index.js",
   "scripts": {
